@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KHAJA AMEEN</h1>
-<h3 align="center">Sure, here are some catchy titles for your GitHub README: 1. "Full Stack Developer Extraordinaire: Java & MERN Specialist"</h3>
+<h3 align="center">"Full Stack Developer Extraordinaire: Java & MERN Specialist"</h3>
 
 - 🔭 I’m currently working on **Full stack MERN project**
 
