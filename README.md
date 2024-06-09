@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm KHAJA AMEEN</h1>
 <h3 align="center">"Full Stack Developer Extraordinaire: Java & MERN Specialist"</h3>
 
-- 🔭 I’m currently working on **Full stack MERN project**
+- 🔭 I’m currently working on **Full stack projects**
 
-- 🌱 I’m currently learning **Angular, firebase**
+- 🌱 I’m currently learning **AWS , Devops**
 
-- 💬 Ask me about **JAVA & MERN anything...😎**
+- 💬 Ask me about **JAVA & MERN 😎**
 
 - 📫 How to reach me **khajaameen455@gmail.com**
 
